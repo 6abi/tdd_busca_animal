@@ -37,7 +37,6 @@
 		<li><a href="https://www.djangoproject.com/"  target="_blank">Django</a></li>
 		<li><a href="https://selenium-python.readthedocs.io/installation.html"  target="_blank">Selenium</a></li>
 		<li><a href="https://getbootstrap.com/"  target="_blank">Bootstrap</a></li>
-		
 	</ul>
 </div>
 
