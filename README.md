@@ -44,9 +44,7 @@
 <!-- Requirements -->
 <div align="center" class='container'>
 	<h2 align="center"> Pré-requisitos </h2>
-</div>
-	$ pip install requirements.txt
-	
+	<p align="center">$ pip install requirements.txt</p>
 	<ul>
 		<li>asgiref==3.4.0</li>
 		<li>Django==3.2.4</li>
@@ -58,6 +56,8 @@
 		<li>urllib3==1.26.6</li> 
 	</ul>
 
+</div>
+	
 
 <!-- Resultados -->
 <!-- Resultado forms -->
