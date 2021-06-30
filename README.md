@@ -52,9 +52,9 @@
 		<li>pytz==2021.1</li> 
 		<li>sqlparse==0.4.1</li>
 		<li>typing-extensions==3.10.0.0</li> 
-	</ul> -->
+	</ul> 
 </div>
-
+-->
 <!-- Resultados -->
 <!-- Resultado forms -->
 <!--
