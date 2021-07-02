@@ -1,6 +1,6 @@
 from django.test import LiveServerTestCase
 from selenium import  webdriver
-
+import time
 class AnimaisTestCase(LiveServerTestCase):
 
     def setUp(self):
@@ -17,3 +17,10 @@ class AnimaisTestCase(LiveServerTestCase):
 
         buscar_animal_input = self.browser.find_element_by_css_selector('input#buscar-animal')
         self.assertEqual(buscar_animal_input.get_attribute('placeholder'), 'Exemplo: leão, urso ...')
+
+        buscar_animal_input.send_keys('leão')
+        # time.sleep(2)
+        self.browser.find_element_by_css_selector('form button').click()
+        
+        caracteristicas = self.browser.find_elements_by_css_selector('.result-description')
+        self.assertGreater(len(caracteristicas), 3)
