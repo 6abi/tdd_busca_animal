@@ -10,7 +10,7 @@
 </div>
 
 <p align="center"> Desenvolvimento de um WEB APP com Django usando o TDD ( Test Driven Development) </p>
-<p align="center"> A aplicação fará a busca de um animal, verificando se o animal procurado estão cadastrado no sistema. </p>
+<p align="center"> A aplicação fará a busca de um animal, verificando se o animal procurado está cadastrado no sistema. </p>
 <p align="center"> O Objetivo do projeto é estudar o TDD com o Django e como isso é aplicado para ter uma aplicação funcional e bem estruturada. P projeto foi desenvolvido usando Teste funcional e principalmente, Teste de unidade. </p>
 
  <!-- Status do projeto -->
