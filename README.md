@@ -4,18 +4,18 @@
 
 <div class="box" align="center" display='flex'>
 	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" width="130" height="40"/></a><a href="https://www.python.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="Python3" /></a>
-	<a href="https://getbootstrap.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="130" height="40"/></a>
 	<a href="https://selenium-python.readthedocs.io/installation.html" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" width="130" height="40"/></a>
 	
 	
 </div>
 
 <p align="center"> Desenvolvimento de um WEB APP com Django usando o TDD ( Test Driven Development) </p>
-<p align="center"> A aplicação fará a busca e classificação de um animal de acordo com certas características </p>
+<p align="center"> A aplicação fará a busca de um animal, verificando se o animal procurado está cadastrado no sistema. </p>
+<p align="center"> O Objetivo do projeto é estudar o TDD com o Django e como isso é aplicado para ter uma aplicação funcional e bem estruturada. P projeto foi desenvolvido usando Teste funcional e principalmente, Teste de unidade. </p>
 
  <!-- Status do projeto -->
 <h4 align="center"> 
-	 🚧  Web App - TDD no Django- busca de animal   🚀 Em construção... 🚧   
+	📌  Web App - TDD no Django - busca de animal  ✔  Finalizado!   📌
 </h4>
 
 
