@@ -64,7 +64,7 @@
 	<h2 align="center"> ⚡ Resultado depois dos teste de: rota da Index, Views, Models, Input, Botão, Busca, Restorno da busca ⚡</h2>
 </div>
 <div align="center" class='result'>
-	<img alt="#result_no_css" title="#result_no_css" src="./result_git/result_1.gif" width="700" height="450"/>
+	<img alt="#result_no_css" title="#result_no_css" src="./result_git/result_0.gif" width="700" height="450"/>
 </div>
 													 
 <!-- Resultado com css -->
